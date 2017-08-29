@@ -14,6 +14,7 @@ import cucumber.api.junit.Cucumber;
 		tags="@Regression",
 		dryRun=false
 		)
+	// I, Anna, have successfully imported git project and I am now committing and pushing this message.
 public class Runner {
 
 	
