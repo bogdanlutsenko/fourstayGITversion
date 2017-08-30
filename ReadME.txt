@@ -18,4 +18,4 @@ You have to create new Branch, and clone you project in Eclipse, with all branch
 change code and push as second branch. 
 after you can do request pull!
 
-When I clone you project i selected only master, didn't select devop branch (((
+When I cloned you project i selected only master, did not select develop branch (((
