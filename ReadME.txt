@@ -17,3 +17,5 @@ but I can not see what is the pourpose. Can you request pull and putt my name th
 You have to create new Branch, and clone you project in Eclipse, with all branches, after in Eclipse select second branche, 
 change code and push as second branch. 
 after you can do request pull!
+
+When I clone you project i selected only master, didn't select devop branch (((
