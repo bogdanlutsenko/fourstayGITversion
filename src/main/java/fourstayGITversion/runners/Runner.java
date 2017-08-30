@@ -10,8 +10,8 @@ import cucumber.api.junit.Cucumber;
 		plugin={"html:target/cucumber-report", "json:target/cucumber.json"},
 		features="src/test/resources/features",
 		glue = "com/fourstay/step_definitions",
-		tags="@Staytest_125, @Staytest_124, @search, @homepage, @login",
-		//tags="@Regression",
+		//tags="@Staytest_125, @Staytest_124, @search, @homepage, @login",
+		tags="@Regression",
 		dryRun=false
 		)
 public class Runner {
